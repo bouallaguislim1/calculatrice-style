@@ -1,0 +1,56 @@
+h4{
+    color: red
+}
+.btn{font-size: 30px}
+
+.btn1{font-size: 30px;text-align: center;color: blue;padding:12px;background-color:blanchedalmond
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn2{font-size: 30px;text-align: center;color: blueviolet;padding:12px;background-color:salmon
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn3{font-size: 30px;text-align: center;color: aqua; padding: 12px;background-color:blue
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn4{font-size: 30px;text-align: center;color: brown ;padding: 12px ;background-color:yellowgreen
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn5{font-size: 30px;text-align: center;color: violet;padding: 12px ;background-color:green
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn6{font-size: 30px;text-align: center;color: tomato;padding: 12px ;background-color:gray
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn7{font-size: 30px;text-align: center;color:maroon;padding: 12px ;background-color:burlywood
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn8{font-size: 30px;text-align: center;color: firebrick;padding: 15px ;background-color:lightblue
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn9{font-size: 30px;text-align: center;color: hotpink;padding: 12px ;background-color:beige
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn10{font-size: 30px;text-align: center;color: rosybrown;padding: 12px ;background-color:navy
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn11{font-size: 30px;text-align: center;color:black;padding: 12px ;background-color:red
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn12{font-size: 30px;text-align: center;color:grey;padding: 14px ;background-color:azure
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn13{font-size: 30px;text-align: center;color: lightslategrey;padding: 12px ;background-color:darkmagenta
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn14{font-size: 30px;text-align: center;color: purple;padding: 12px ;background-color:ghostwhite
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn15{font-size: 30px;text-align: center;color:darkkhaki ;padding: 12px ;background-color:blueviolet
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.btn16{font-size: 30px;text-align: center;color: ivory;padding: 16px ;background-color:turquoise
+    ;border: none;border-radius:50px;text-decoration : none;width:53px;height:53px;}
+
+.inputt{width:198px ; height:45px ; }
+body{ background-image: url("./photo1.jpg")}
+
